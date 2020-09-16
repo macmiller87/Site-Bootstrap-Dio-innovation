@@ -1,0 +1,41 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-nav a {
+    color: black;
+}
+
+.quem-somos {
+    background-color: #7280a8;
+    color: black;
+}
+.quem-somos h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+}
+
+.margin {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.servicos {
+    background-color: #7280a8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
