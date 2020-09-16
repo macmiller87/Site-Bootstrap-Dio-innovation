@@ -16,3 +16,4 @@ Tecnologias usadas!
 ![javascrip](https://user-images.githubusercontent.com/67304312/93305688-3ce5a880-f7d5-11ea-98be-1450ab9ae211.png)
 ![css](https://user-images.githubusercontent.com/67304312/93305704-4242f300-f7d5-11ea-8bc0-3b3c44de1060.png)
 ![html5](https://user-images.githubusercontent.com/67304312/93305716-4707a700-f7d5-11ea-9e63-51cabdd33f9a.png)
+![bootstrap](https://user-images.githubusercontent.com/67304312/93306996-ebd6b400-f7d6-11ea-9bfc-ebac4729a77e.png)
